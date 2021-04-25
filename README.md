@@ -1,6 +1,6 @@
 ## Hello world!
 
-I'am a SRE / sysadmin engineer in [heart] with kubernetes, Rancher k3s!
+I'am a SRE / sysadmin engineer in [heart] with kubernetes, Rancher k3s, Weavescope!
 
 ## What I'm up to 👋
 
@@ -10,8 +10,8 @@ I'am a SRE / sysadmin engineer in [heart] with kubernetes, Rancher k3s!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Terraform, AWS, Kubernetes in [Oceant Technology]().
-- 🌱 I’m currently learning kubernetes, EKS...
-- 💬 Ask me about linux, bash, docker
+- 🌱 I’m currently learning kubernetes, EKS, Longhorn, FluxCD, Jenkins X...
+- 💬 Ask me about linux, bash, docker, portainer.
 - 📫 How to reach me: @seomago
 
 
