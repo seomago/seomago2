@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working with Terraform, AWS, Kubernetes in [Oceant Technology]().
-- 🌱 I’m currently learning kubernetes, EKS, Longhorn, FluxCD, Jenkins X...
+- 🔭 I’m currently working with Ansible, Terraform, AWS, Argo CD, Kubernetes, Rancher, k9s in [Oceanet Technology](https://www.linkedin.com/company/oceanet-technology/).
+- 🌱 I’m currently learning SaltStack, kubernetes, EKS, Longhorn, FluxCD, Jenkins X...
 - 💬 Ask me about linux, bash, docker, portainer, minikube, helm, kustomize, ansible.
 - 📫 How to reach me: @seomago [Linkedin](https://linkedin.com/in/nccvalencia)
 
