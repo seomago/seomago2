@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about linux, bash, docker, portainer, minikube, helm, kustomize, ansible.
 - 📫 How to reach me: @seomago [Linkedin](https://linkedin.com/in/nccvalencia)
 
-[kubernetes](https://www.komku.org/wp-content/uploads/2020/10/Kubernetes.jpg)
+![kubernetes](https://www.komku.org/wp-content/uploads/2020/10/Kubernetes.jpg)
